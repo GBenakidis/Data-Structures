@@ -1,7 +1,7 @@
 # Dictionary
 
 ## Overview
-This C code is a comprehensive dictionary application designed to efficiently search for and retrieve word meanings. It employs two different strategies for optimizing word lookups. The first approach employs separate chaining in a hash table, ensuring efficient word storage and retrieval with minimal collisions. The second method leverages the QuickSort algorithm to sort words and store them in an array of structures, significantly enhancing search performance. Both strategies utilize a prime multiplier-based hashing technique for effective word indexing and collision prevention. The program features a user-friendly interface for word searches, dynamic memory management, input validation, and the ability to read from a dictionary file. It is well-structured, documented, and offers valuable insights into data structures and algorithms, making it suitable for publication on GitHub as a reference or for further development.
+This C code is a comprehensive dictionary application designed to efficiently search for and retrieve word meanings. It employs two different strategies for optimizing word lookups. The first approach employs separate chaining in a hash table, ensuring efficient word storage and retrieval with minimal collisions. The second method leverages the QuickSort algorithm to sort words and store them in an array of structures, significantly enhancing search performance. Both strategies utilize a prime multiplier-based hashing technique for effective word indexing and collision prevention. The program features a user-friendly interface for word searches, dynamic memory management, input validation, and the ability to read from a dictionary file.
 
 ## Features
 - Efficient word search and retrieval.
